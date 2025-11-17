@@ -1,0 +1,10 @@
+96b8a9a Revert "Add paragraph to index.html"
+d935856 Add paragraph to index.html
+c7185b3 Resolve merge conflict
+3b2911f Update heading text on main
+ae12b4e Change heading text
+426df28 Merge pull request #1 from Khrobatenko/feature-style
+21027ae Add second test file for pull request
+33638e1 Create test-Khrobatenko.txt
+3c6bd96 Add blue CSS style to heading
+8cd1c2d Add initial HTML file
